@@ -6,3 +6,9 @@ temp/
 
 # Ігнорування всіх файлів .DS_Store (для macOS)
 .DS_Store
+git init
+git remote add origin https://github.com/твій-логін/твій-репозиторій.git
+
+git add .gitignore
+git commit -m "Додано .gitignore"
+git push origin master
