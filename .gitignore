@@ -1,0 +1,15 @@
+# Ігнорування всіх файлів .log
+*.log
+
+# Ігнорування папки temp
+temp/
+
+# Ігнорування всіх файлів .DS_Store (для macOS)
+.DS_Store
+
+# Ігнорування файлів Visual Studio
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+Debug/
+Release/
